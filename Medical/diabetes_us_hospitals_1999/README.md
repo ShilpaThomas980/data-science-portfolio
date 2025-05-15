@@ -1,1 +1,2 @@
-readme file for the diabetes file 1999 to 2008
+# data-science-portfolio
+A Data Science Portfolio having my Self Initiated Projects - well structured.
