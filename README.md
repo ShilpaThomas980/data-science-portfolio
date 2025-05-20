@@ -11,5 +11,5 @@ This repository contains multiple data science and machine learning projects cov
 
 ## Projects
 1. Heart Disease Prediction
-2. Diabetes Patienst Readmission in US hospitals 1999-2008
+2. Diabetes Patients Readmission in US hospitals 1999-2008
 
